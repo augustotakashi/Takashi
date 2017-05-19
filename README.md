@@ -1,3 +1,3 @@
 # Takashi
 
-BUM BUM TAM TAM
+# BUM BUM TAM TAM
