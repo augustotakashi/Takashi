@@ -1,0 +1,5 @@
+a = toma
+b = no
+c = rabo
+
+print (a,b,c)
